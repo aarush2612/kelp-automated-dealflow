@@ -1,0 +1,43 @@
+Consumer_Entertainment:
+  slides:
+    - cover
+    - overview
+    - highlights
+    - financials
+    - disclaimer
+  highlight_focus:
+    - scale
+    - footfall
+    - revenue_growth
+
+Manufacturing:
+  slides:
+    - cover
+    - overview
+    - highlights
+    - financials
+    - disclaimer
+  highlight_focus:
+    - capacity
+    - exports
+    - margins
+
+Technology:
+  slides:
+    - cover
+    - overview
+    - highlights
+    - financials
+    - disclaimer
+  highlight_focus:
+    - recurring_revenue
+    - growth
+    - unit_economics
+
+General:
+  slides:
+    - cover
+    - overview
+    - highlights
+    - financials
+    - disclaimer
